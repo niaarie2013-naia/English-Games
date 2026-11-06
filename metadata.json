@@ -1,0 +1,6 @@
+{
+  "name": "GrammarQuest: Junior High English GSE Adventure",
+  "description": "An interactive, gamified English learning app for Grades 7–9 aligned with the Pearson Global Scale of English (GSE 30–58). Features syntax word trains, tense time-travel, and grammar detective games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
